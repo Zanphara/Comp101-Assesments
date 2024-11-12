@@ -1,0 +1,22 @@
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\bin\Debug\net8.0\Graphical Editing.exe
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\bin\Debug\net8.0\Graphical Editing.deps.json
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\bin\Debug\net8.0\Graphical Editing.runtimeconfig.json
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\bin\Debug\net8.0\Graphical Editing.dll
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\bin\Debug\net8.0\Graphical Editing.pdb
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\Graphical Editing.csproj.AssemblyReference.cache
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\Graphical Editing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\Graphical Editing.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\Graphical Editing.AssemblyInfo.cs
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\Graphical Editing.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\Graphical Editing.sourcelink.json
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\Graphica.C3BC89C7.Up2Date
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\Graphical Editing.dll
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\refint\Graphical Editing.dll
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\Graphical Editing.pdb
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\Graphical Editing.genruntimeconfig.cache
+C:\Users\joshu\Desktop\CodeBase\Comp101-1-2411873\Class Work\Graphical Editing\obj\Debug\net8.0\ref\Graphical Editing.dll

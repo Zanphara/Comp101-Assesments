@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjdONGvjRyg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joshu\\Desktop\\CodeBase\\Comp101-1-2411873\\Class Work\\Graphical Editing\\Graphical Editing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joshu\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\joshu\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\joshu\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
+  "logs": []
+}
